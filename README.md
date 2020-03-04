@@ -20,4 +20,4 @@ In this repo you will find
 - If you want to start from scratch, you can delete everything in this repository and push any other static website
 
 ## Session 1
-[session1](/session1)
+[session1](/KasraTabrizi//session1)
