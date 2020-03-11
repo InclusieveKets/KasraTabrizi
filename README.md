@@ -19,5 +19,5 @@ In this repo you will find
 - You can change the looks of your website using mkdocs themes, you can find in the mkdocs.yml the names of the available themes
 - If you want to start from scratch, you can delete everything in this repository and push any other static website
 
-## Week 1
-[Week1](./session1)
+## Session 1
+[Session1](./session1)
