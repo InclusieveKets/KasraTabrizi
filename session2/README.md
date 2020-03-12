@@ -5,4 +5,4 @@
   
  - Inkscape installeren en leren werken met inkscape
 
- - een kleine project maken met de lasercutter 
+ - huiswerk = bestudeer CNC joints en een project maken
