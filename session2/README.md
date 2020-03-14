@@ -1,12 +1,9 @@
-# SESSION 2
+# SESSION 2 (11/03/2020)
 ## Author: Kasra Tabrizi
 
  - Intro werken met lasercutter
-  
  - Inkscape installeren en leren werken met inkscape
-
  - huiswerk = bestudeer CNC joints en een project maken
-
 
 ### Saturday 14/3/2020 - lasercut session
 
@@ -14,13 +11,13 @@ project: phone stand
 
 (image)
 
-process
-
-things I learned
+Things I learned
+How I worked with the lasercutter
 
 - first turn on lasercutter. wait untill it is loaded
 - use the arrows on the lasercutter to position the laserhead
 - put the board in. apply duct tape so that the board is fixed when it is hollow.
+- position the laserhead 1/3 of the width of the board
 - calibrate lasercutter
 - turn on laptop - open your file in inkscape
 - press print and choose the right lasercutter
@@ -45,9 +42,7 @@ mm because that is the thickness of the wood. normally you should always take a 
 
 3. engraving my initials and and some symbols on the smartphone stand
 
-image
-
-
+(image)
 
 ### things I learned
 
@@ -57,4 +52,11 @@ what I did first
 (screenshot)
 
 what I did now
+
+### second project  with shield
+
+create three different versions of the same shield but use red for cutting, black for engraving and blue for rastering
+to see the difference
+
+the engraving one didnt quite work. see mistake in picture.
 
