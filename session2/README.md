@@ -43,4 +43,18 @@ mm because that is the thickness of the wood. normally you should always take a 
 2. second version also wasnt good due the thickness. the thickness of the multiplex wood was actually 3.5mm. so I took 3.7mm for the width of the slit. now everything works!
 (image)
 
+3. engraving my initials and and some symbols on the smartphone stand
+
+image
+
+
+
+### things I learned
+
+try to position the drawings in a way that uses less wood on your board.
+
+what I did first
+(screenshot)
+
+what I did now
 
