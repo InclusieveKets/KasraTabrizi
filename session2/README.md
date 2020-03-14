@@ -18,25 +18,16 @@ process
 
 things I learned
 
-first turn on lasercutter. wait untill it is loaded
-
-use the arrows on the lasercutter to position the laserhead
-
-put the board in. apply duct tape so that the board is fixed when it is hollow.
-
-calibrate lasercutter
-
-turn on laptop - open your file in inkscape
-
-press print and choose the right lasercutter
-
-a new window will open (Retina Engrave)
-
-connect to the lasercutter, check the IP address
-
-then press home
-
-chose the right speed and power
+- first turn on lasercutter. wait untill it is loaded
+- use the arrows on the lasercutter to position the laserhead
+- put the board in. apply duct tape so that the board is fixed when it is hollow.
+- calibrate lasercutter
+- turn on laptop - open your file in inkscape
+- press print and choose the right lasercutter
+- a new window will open (Retina Engrave)
+- connect to the lasercutter, check the IP address
+- then press home
+- chose the right speed and power
 
 as the lasercutter is used; after a while the laser wattage will decrease. so the values you use from the excell are all values based on when the lasercutter was used in the beginning. it possible that you have to change the speed. for example when it is 60, you change it to 50 for cutting.
 
