@@ -42,7 +42,7 @@ as the lasercutter is used; after a while the laser wattage will decrease. so th
 
 if everything is set, then press play.
 
-process of the smartphone stand
+### process of the smartphone stand
 
 1. in the first version, the speed was set to 60 which didnt cut everything perfectly. I changed the speed to 50 and retried again. I couldnt slide the small piece into the larger piece because the slit was 3 mm. I took 3
 mm because that is the thickness of the wood. normally you should always take a margin of 0.2mm. so I took 3.3 mm.
