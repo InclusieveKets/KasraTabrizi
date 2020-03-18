@@ -9,7 +9,8 @@
 
 ### project: phone stand
 
-![Final product](images/final_product_new.jpg)
+<img src="images/final_product_new.jpg" width="200" alt="phone stand final version">
+<!-- ![Final product](images/final_product_new.jpg) -->
 
 ### process of the smartphone stand
 
