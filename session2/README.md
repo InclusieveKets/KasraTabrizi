@@ -18,8 +18,9 @@ mm because I assumed that it was the thickness of the multiplex wood. Normally y
 
 <img src="images/project1_version1.jpg" width="200" alt="phone stand version 1">
 
-2. second version also wasnt good due the thickness. the thickness of the multiplex wood was actually 3.5mm. so I took 3.7mm for the width of the slit. now everything works!
-(image)
+2. Second version also wasn't good due the thickness. The thickness of the multiplex wood was actually 3.5mm. so I took 3.7mm for the width of the slit. now everything works!
+
+<img src="images/project1_version2.jpg" width="200" alt="phone stand version 2">
 
 3. engraving my initials and and some symbols on the smartphone stand
 
