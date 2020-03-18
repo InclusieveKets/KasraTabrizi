@@ -43,11 +43,11 @@ Try to position the drawings in a way that uses less wood on your board.
 
 what I did first
 
-<img src="images/2020-03-14_bad_positioning.jpg" width="400" alt="project shields">
+<img src="images/bad_positioning.jpg" width="400" alt="project shields">
 
 what I did now
 
-<img src="images/2020-03-14 good-positioning.jpg" width="400" alt="project shields">
+<img src="images/good-positioning.jpg" width="400" alt="project shields">
 
 #### How I worked with the lasercutter
 
