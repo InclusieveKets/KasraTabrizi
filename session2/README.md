@@ -9,22 +9,30 @@
 
 ### Project: phone stand
 
-<img src="images/final_product_new.jpg" width="200" alt="phone stand final version">
+<p align="center">
+    <img src="images/final_product_new.jpg" width="200" alt="phone stand final version">
+</p>
 
 ### Process of the smartphone stand
 
 1. In the first version, the speed was set to 60 which didnt cut everything perfectly. I changed the speed to 50 and retried again. I couldnt slide the small piece into the larger piece because the slit was 3 mm. I took 3
 mm because I assumed that it was the thickness of the multiplex wood. Normally you should always take a margin of 0.2mm. so I took 3.3 mm.
 
-<img src="images/project1_version1.jpg" width="400" alt="phone stand version 1">
+<p align="center">
+    <img src="images/project1_version1.jpg" width="400" alt="phone stand version 1">
+</p>
 
 2. Second version also wasn't good due the thickness. The thickness of the multiplex wood was actually 3.5mm. so I took 3.7mm for the width of the slit. now everything works!
 
-<img src="images/project1_version2.jpg" width="400" alt="phone stand version 2">
+<p align="center">
+    <img src="images/project1_version2.jpg" width="400" alt="phone stand version 2">
+</p>
 
 3. Some symbols on the smartphone stand
 
-<img src="images/phone_stand_with_engraved_symbols.jpg" width="400" alt="phone stand version engraved symbols">
+<p align="center">
+    <img src="images/phone_stand_with_engraved_symbols.jpg" width="400" alt="phone stand version engraved symbols">
+</p>
 
 ### Second project  with shield
 
@@ -33,7 +41,9 @@ to see the difference
 
 the engraving one didnt quite work. see mistake in picture (the top of the shield).
 
-<img src="images/project2_shields.jpg" width="400" alt="project shields">
+<p align="center">
+    <img src="images/project2_shields.jpg" width="400" alt="project shields">
+</p>
 
 ### Things I learned
 
@@ -43,11 +53,15 @@ Try to position the drawings in a way that uses less wood on your board.
 
 What I did first
 
-<img src="images/bad_positioning.png" alt="bad positioning">
+<p align="center">
+    <img src="images/bad_positioning.png" alt="bad positioning">
+</p>
 
 What I did now
 
-<img src="images/good-positioning.png" alt="good positioning">
+<p align="center">
+    <img src="images/good-positioning.png" alt="good positioning">
+</p>
 
 #### How I worked with the lasercutter
 
