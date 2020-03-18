@@ -2,9 +2,8 @@
 ## Author: Kasra Tabrizi
 
 - Introduction to the 3D printer
-- Explanantion about tinkercad en onshape
+- Explanantion about Tinkercad en Onshape
 - Installing KiCad
-- Measurements regarding the Corona Virus
 
 ### What can you print with a 3D printer
 
@@ -32,7 +31,7 @@
  - SLS (powder) used for metal
 
 
- Note: the more you use the 3d printer to bigger the hole of the nozzle becomes. Once in a while you have to replace the nozzle with a new one.
+ Note for FDM printers: the more you use the 3d printer to bigger the hole of the nozzle becomes. Once in a while you have to replace the nozzle with a new one.
 
 ### Assignment
 
