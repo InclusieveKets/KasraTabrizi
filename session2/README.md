@@ -15,7 +15,7 @@
 
 ### Process of the smartphone stand
 
-1. In the first version, the speed was set to 60 which didnt cut everything perfectly. I changed the speed to 50 and retried again. I couldnt slide the small piece into the larger piece because the slit was 3 mm. I took 3
+1. In the first version, the speed was set to 60 which didnt cut everything perfectly. I changed the speed to 50 and retried again(see the section on how to use the lasercutter for the reason). I couldnt slide the small piece into the larger piece because the slit was 3 mm. I took 3
 mm because I assumed that it was the thickness of the multiplex wood. Normally you should always take a margin of 0.2mm. so I took 3.3 mm.
 
 <p align="center">
