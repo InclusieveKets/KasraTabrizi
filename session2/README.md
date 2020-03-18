@@ -41,30 +41,30 @@ the engraving one didnt quite work. see mistake in picture (the top of the shiel
 
 Try to position the drawings in a way that uses less wood on your board.
 
-what I did first
+What I did first
 
 <img src="images/bad_positioning.png" alt="bad positioning">
 
-what I did now
+What I did now
 
 <img src="images/good-positioning.png" alt="good positioning">
 
 #### How I worked with the lasercutter
 
-- first turn on lasercutter. wait untill it is loaded
-- use the arrows on the lasercutter to position the laserhead
-- put the board in. apply duct tape so that the board is fixed when it is hollow.
-- position the laserhead 1/3 of the width of the board
-- calibrate lasercutter
-- turn on laptop - open your file in inkscape
-- press print and choose the right lasercutter
-- a new window will open (Retina Engrave)
-- connect to the lasercutter, check the IP address
-- then press home
-- chose the right speed and power
+- First turn on lasercutter. wait untill it is loaded
+- Use the arrows on the lasercutter to position the laserhead
+- Put the board in. apply duct tape so that the board is fixed when it is bended.
+- Position the laserhead 1/3 of the width of the board.
+- Calibrate lasercutter
+- Turn on laptop - open your file in inkscape
+- Press print and choose the right lasercutter
+- A new window will open (Retina Engrave)
+- Connect to the lasercutter, check the IP address
+- Then press home
+- Chose the right speed and power
 
-as the lasercutter is used; after a while the laser wattage will decrease. so the values you use from the excell are all values based on when the lasercutter was used in the beginning. it possible that you have to change the speed. for example when it is 60, you change it to 50 for cutting.
+As the lasercutter is used; after a while the laser wattage will decrease. So the values you use from the excell are all values based on when the lasercutter was used in the beginning. It possible that you have to change the speed. For example when it is 60, you change it to 50 for cutting.
 
-if everything is set, then press play.
+If everything is set, then press play.
 
 
