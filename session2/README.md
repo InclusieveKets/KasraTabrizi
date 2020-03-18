@@ -5,13 +5,13 @@
  - Download and install inkscape and learn the basics
  - project make a something that uses joints to connect pieces together
 
-### Saturday 14/3/2020 - lasercut session
+### Saturday 14/3/2020 - Lasercut session
 
-### project: phone stand
+### Project: phone stand
 
 <img src="images/final_product_new.jpg" width="200" alt="phone stand final version">
 
-### process of the smartphone stand
+### Process of the smartphone stand
 
 1. In the first version, the speed was set to 60 which didnt cut everything perfectly. I changed the speed to 50 and retried again. I couldnt slide the small piece into the larger piece because the slit was 3 mm. I took 3
 mm because I assumed that it was the thickness of the multiplex wood. Normally you should always take a margin of 0.2mm. so I took 3.3 mm.
@@ -24,18 +24,18 @@ mm because I assumed that it was the thickness of the multiplex wood. Normally y
 
 3. Some symbols on the smartphone stand
 
-<img src="images/phone_stand_with_engraved_symbols.jpg" width="200" alt="phone stand version 2">
+<img src="images/phone_stand_with_engraved_symbols.jpg" width="200" alt="phone stand version engraved symbols">
 
-### second project  with shield
+### Second project  with shield
 
-create three different versions of the same shield but use red for cutting, black for engraving and blue for rastering
+Create three different versions of the same shield but use red for cutting, black for engraving and blue for rastering
 to see the difference
 
-the engraving one didnt quite work. see mistake in picture.
+the engraving one didnt quite work. see mistake in picture (the top of the shield).
 
-<img src="images/phone_stand_with_engraved_symbols.jpg" width="200" alt="phone stand version 2">
+<img src="images/project2_shields.jpg" width="200" alt="project shields">
 
-### things I learned
+### Things I learned
 
 #### Inkscape
 
