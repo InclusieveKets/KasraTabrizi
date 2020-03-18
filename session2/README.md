@@ -37,9 +37,7 @@ mm because I assumed that it was the thickness of the multiplex wood. Normally y
 ### Second project with shield
 
 Create three different versions of the same shield but use red for cutting, black for engraving and blue for rastering
-to see the difference
-
-the engraving one didnt quite work. see mistake in picture (the top of the shield).
+to see the difference. The engraving one didnt quite work. see mistake in picture (the top of the shield).
 
 <p align="center">
     <img src="images/project2_shields.jpg" width="600" alt="project shields">
@@ -47,23 +45,23 @@ the engraving one didnt quite work. see mistake in picture (the top of the shiel
 
 ### Things I learned
 
-#### Inkscape
+#### 1. Inkscape
 
 Try to position the drawings in a way that uses less wood on your board.
 
-What I did first
+##### What I did first
 
 <p align="center">
     <img src="images/bad_positioning.png" alt="bad positioning">
 </p>
 
-What I did now
+##### What I did now
 
 <p align="center">
     <img src="images/good-positioning.png" alt="good positioning">
 </p>
 
-#### How I worked with the lasercutter
+#### 2. How I worked with the lasercutter
 
 - First turn on lasercutter. wait untill it is loaded
 - Use the arrows on the lasercutter to position the laserhead
