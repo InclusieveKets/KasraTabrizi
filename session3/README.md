@@ -34,7 +34,6 @@
 
  Note: the more you use the 3d printer to bigger the hole of the nozzle becomes. Once in a while you have to replace the nozzle with a new one.
 
-
 ### Assignment
 
 - 3d print something in one piece that has mechanics in it or print something that can't made made with a lasercutter or CNC cutter
