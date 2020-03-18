@@ -1,18 +1,49 @@
 # SESSION 2 (11/03/2020)
 ## Author: Kasra Tabrizi
 
- - Intro werken met lasercutter
- - Inkscape installeren en leren werken met inkscape
- - huiswerk = bestudeer CNC joints en een project maken
+ - Introduction with the lasercutter
+ - Download and install inkscape and learn the basics
+ - project make a something that uses joints to connect pieces together
 
 ### Saturday 14/3/2020 - lasercut session
 
-project: phone stand
+### project: phone stand
+
+
+
+### process of the smartphone stand
+
+1. in the first version, the speed was set to 60 which didnt cut everything perfectly. I changed the speed to 50 and retried again. I couldnt slide the small piece into the larger piece because the slit was 3 mm. I took 3
+mm because that is the thickness of the wood. normally you should always take a margin of 0.2mm. so I took 3.3 mm.
 
 (image)
 
-Things I learned
-How I worked with the lasercutter
+2. second version also wasnt good due the thickness. the thickness of the multiplex wood was actually 3.5mm. so I took 3.7mm for the width of the slit. now everything works!
+(image)
+
+3. engraving my initials and and some symbols on the smartphone stand
+
+(image)
+
+### second project  with shield
+
+create three different versions of the same shield but use red for cutting, black for engraving and blue for rastering
+to see the difference
+
+the engraving one didnt quite work. see mistake in picture.
+
+### things I learned
+
+#### Inkscape
+
+try to position the drawings in a way that uses less wood on your board.
+
+what I did first
+(screenshot)
+
+what I did now
+
+#### How I worked with the lasercutter
 
 - first turn on lasercutter. wait untill it is loaded
 - use the arrows on the lasercutter to position the laserhead
@@ -30,33 +61,4 @@ as the lasercutter is used; after a while the laser wattage will decrease. so th
 
 if everything is set, then press play.
 
-### process of the smartphone stand
-
-1. in the first version, the speed was set to 60 which didnt cut everything perfectly. I changed the speed to 50 and retried again. I couldnt slide the small piece into the larger piece because the slit was 3 mm. I took 3
-mm because that is the thickness of the wood. normally you should always take a margin of 0.2mm. so I took 3.3 mm.
-
-(image)
-
-2. second version also wasnt good due the thickness. the thickness of the multiplex wood was actually 3.5mm. so I took 3.7mm for the width of the slit. now everything works!
-(image)
-
-3. engraving my initials and and some symbols on the smartphone stand
-
-(image)
-
-### things I learned
-
-try to position the drawings in a way that uses less wood on your board.
-
-what I did first
-(screenshot)
-
-what I did now
-
-### second project  with shield
-
-create three different versions of the same shield but use red for cutting, black for engraving and blue for rastering
-to see the difference
-
-the engraving one didnt quite work. see mistake in picture.
 
