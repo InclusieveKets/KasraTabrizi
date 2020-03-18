@@ -24,7 +24,7 @@ mm because I assumed that it was the thickness of the multiplex wood. Normally y
 
 3. Some symbols on the smartphone stand
 
-<img src="images/project1_version2.jpg" width="200" alt="phone stand version 2">
+<img src="images/phone_stand_with_engraved_symbols.jpg" width="200" alt="phone stand version 2">
 
 ### second project  with shield
 
