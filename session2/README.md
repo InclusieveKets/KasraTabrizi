@@ -34,7 +34,7 @@ mm because I assumed that it was the thickness of the multiplex wood. Normally y
     <img src="images/phone_stand_with_engraved_symbols.jpg" width="400" alt="phone stand version engraved symbols">
 </p>
 
-### Second project  with shield
+### Second project with shield
 
 Create three different versions of the same shield but use red for cutting, black for engraving and blue for rastering
 to see the difference
@@ -42,7 +42,7 @@ to see the difference
 the engraving one didnt quite work. see mistake in picture (the top of the shield).
 
 <p align="center">
-    <img src="images/project2_shields.jpg" width="400" alt="project shields">
+    <img src="images/project2_shields.jpg" width="600" alt="project shields">
 </p>
 
 ### Things I learned
