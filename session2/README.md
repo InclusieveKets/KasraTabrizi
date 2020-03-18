@@ -22,9 +22,9 @@ mm because I assumed that it was the thickness of the multiplex wood. Normally y
 
 <img src="images/project1_version2.jpg" width="200" alt="phone stand version 2">
 
-3. engraving my initials and and some symbols on the smartphone stand
+3. Some symbols on the smartphone stand
 
-(image)
+<img src="images/project1_version2.jpg" width="200" alt="phone stand version 2">
 
 ### second project  with shield
 
