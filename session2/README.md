@@ -33,6 +33,8 @@ to see the difference
 
 the engraving one didnt quite work. see mistake in picture.
 
+<img src="images/phone_stand_with_engraved_symbols.jpg" width="200" alt="phone stand version 2">
+
 ### things I learned
 
 #### Inkscape
