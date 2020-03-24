@@ -37,5 +37,5 @@ alert(s);
 I already worked extensively with github so the first session was nothing new for me.
 The only thing new for me was working with jekyll to generate the static website.
 
-[Go Back](./)
+[Go Back](.\)
 
