@@ -44,7 +44,7 @@ For the assignment, I designed a ball in a square. The point of this design was 
 I used TinkedCad to make the model
 
 <p align="center">
-    <img src="images/ball-in-square.png" width="200" alt="phone stand final version">
+    <img src="images/ball_in_square.png" width="200" alt="phone stand final version">
 </p>
 
 #### Process
