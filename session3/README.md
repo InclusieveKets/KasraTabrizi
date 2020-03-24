@@ -84,13 +84,13 @@ Adding the ball inside the square.
 The first print of this model failed because for some reason the space of some sides of the square were larger than the other. Because of this, the ball easily came out the square. 
 
 <p align="center">
-    <img src="images/failed_attempt.png" width="200" alt="phone stand final version">
+    <img src="images/failed_attempt.jpg" width="200" alt="phone stand final version">
 </p>
 
 For the next step, I made the ball bigger. The second, the print succeeded!
 
 <p align="center">
-    <img src="images/final_result.png" width="200" alt="phone stand final version">
+    <img src="images/final_result.jpg" width="200" alt="phone stand final version">
 </p>
 
 [Go Back](../README.md)
