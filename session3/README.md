@@ -44,7 +44,7 @@ For the assignment, I designed a ball in a square. The point of this design was 
 I used TinkedCad to make the model
 
 <p align="center">
-    <img src="images/ball_in_square.png" width="200" alt="phone stand final version">
+    <img src="images/ball_in_square.png" width="400" alt="phone stand final version">
 </p>
 
 #### Process
@@ -84,13 +84,13 @@ Adding the ball inside the square.
 The first print of this model failed because for some reason the space of some sides of the square were larger than the other. Because of this, the ball easily came out the square. 
 
 <p align="center">
-    <img src="images/failed_attempt.jpeg" width="200" alt="phone stand final version">
+    <img src="images/failed_attempt.jpeg" width="400" alt="phone stand final version">
 </p>
 
 For the next step, I made the ball bigger. The second, the print succeeded!
 
 <p align="center">
-    <img src="images/final_result.jpeg" width="200" alt="phone stand final version">
+    <img src="images/final_result.jpeg" width="400" alt="phone stand final version">
 </p>
 
 [Go Back](../README.md)
