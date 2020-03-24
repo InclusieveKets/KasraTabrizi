@@ -38,4 +38,14 @@
 
 - 3d print something in one piece that has mechanics in it or print something that can't made made with a lasercutter or CNC cutter
 
+#### Project: Ball in a Square
+
+For the assignment, I designed a ball in a square. The point of this design was to make the ball move freely while it remains trapped inside the square.
+
+<p align="center">
+    <img src="images/ball-in-square" width="200" alt="phone stand final version">
+</p>
+
+
+
 [Go Back](../README.md)
