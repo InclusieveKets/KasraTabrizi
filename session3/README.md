@@ -41,11 +41,56 @@
 #### Project: Ball in a Square
 
 For the assignment, I designed a ball in a square. The point of this design was to make the ball move freely while it remains trapped inside the square.
+I used TinkedCad to make the model
 
 <p align="center">
-    <img src="images/ball-in-square" width="200" alt="phone stand final version">
+    <img src="images/ball-in-square.png" width="200" alt="phone stand final version">
 </p>
 
+#### Process
 
+1. I created a square 50x50x50 mm. To make square hollow, I created three boxes with 70x30x30 mm. I positioned them in the middle of the square along the width, length and height. All three of the boxes are holes instead of solids and then I grouped everything together (See image below):
+
+##### Step 1
+
+<p align="center">
+    <img src="images/step1.png" width="200" alt="phone stand final version">
+</p>
+
+##### Step 2
+
+<p align="center">
+    <img src="images/step2.png" width="200" alt="phone stand final version">
+</p>
+
+##### Step 3
+
+<p align="center">
+    <img src="images/step3.png" width="200" alt="phone stand final version">
+</p>
+
+##### Step 4
+
+<p align="center">
+    <img src="images/step4.png" width="200" alt="phone stand final version">
+</p>
+
+##### Step 5
+
+Adding the ball inside the square.
+
+#### Result:
+
+The first print of this model failed because for some reason the space of some sides of the square were larger than the other. Because of this, the ball easily came out the square. 
+
+<p align="center">
+    <img src="images/failed_attempt.png" width="200" alt="phone stand final version">
+</p>
+
+For the next step, I made the ball bigger. The second, the print succeeded!
+
+<p align="center">
+    <img src="images/final_result.png" width="200" alt="phone stand final version">
+</p>
 
 [Go Back](../README.md)
