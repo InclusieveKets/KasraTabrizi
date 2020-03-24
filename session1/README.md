@@ -32,3 +32,8 @@ alert(s);
 
 [My Facebook](https://www.facebook.com/kasra.tabrizi)
 
+#### Things I learned
+
+I already worked extensively with github so the first session was nothing new for me.
+The only thing new for me was working with jekyll to generate the static website.
+
