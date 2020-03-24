@@ -19,7 +19,8 @@
 
 ### YHT rules
 
-- When you buy 3D print, test the YHT rules to see how it behaves.
+- When you buy 3D print, test the YHT rules to see how it behaves. However there are models we can use to test our 3D printer out that already incorporate the YHT rules.
+[10 best 3d models to test your 3d printer](https://all3dp.com/2/3d-printer-test-print-10-best-3d-models-to-torture-your-3d-printer/)
 
 ### Types of Printers
 
