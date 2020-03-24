@@ -39,4 +39,3 @@ The only thing new for me was working with jekyll to generate the static website
 
 [Go Back](/KasraTabrizi)
 
-e
