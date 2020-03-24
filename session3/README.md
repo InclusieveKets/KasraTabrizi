@@ -66,7 +66,7 @@ I used TinkedCad to make the model
 ##### Step 3
 
 <p align="center">
-    <img src="images/step3.png" width="200" alt="phone stand final version">
+    <img src="images/step3.png" width="400" alt="phone stand final version">
 </p>
 
 ##### Step 4
