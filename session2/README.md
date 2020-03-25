@@ -84,7 +84,7 @@ If everything is set, then press play.
 ### Design files
 
 <p>
-    <a href="https://github.com/InclusieveKets/KasraTabrizi/blob/master/session2/inkscape/shield.svg" download>Shield.svg</a>
+    <a href="shield.svg" download>Shield.svg</a>
 </p>
 
 
