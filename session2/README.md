@@ -84,11 +84,11 @@ If everything is set, then press play.
 ### Design files
 
 <ul>
-    <a href="inkscape/phone-stand.svg" download>Phone-stand.svg</a>
-    <a href="inkscape/phone-stand-final.svg" download>Phone-stand-version1.svg</a>
-    <a href="inkscape/phone-stand-final2.svg" download>Phone-stand-version2.svg</a>
-    <a href="inkscape/phone-stand-final3.svg" download>Phone-stand-final.svg</a>
-    <a href="inkscape/shield.svg" download>Shield.svg</a>
+    <li><a href="inkscape/phone-stand.svg" download>Phone-stand.svg</a></li>
+    <li><a href="inkscape/phone-stand-final.svg" download>Phone-stand-version1.svg</a></li>
+    <li><a href="inkscape/phone-stand-final2.svg" download>Phone-stand-version2.svg</a></li>
+    <li><a href="inkscape/phone-stand-final3.svg" download>Phone-stand-final.svg</a></li>
+    <li><a href="inkscape/shield.svg" download>Shield.svg</a></li>
 </ul>
 
 
