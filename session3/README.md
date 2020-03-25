@@ -93,4 +93,13 @@ For the next step, I made the ball bigger. The second, the print succeeded!
     <img src="images/final_result.jpeg" width="400" alt="phone stand final version">
 </p>
 
+
+### Design files
+
+<ul>
+    <li><a href="3D projects/ball_in_a_square.stl" download>Ball_in_a_square_version1.svg</a></li>
+    <li><a href="3D projects/ball_in_a_square_versie2.stl" download>Ball_in_a_square_final.svg</a></li>
+</ul>
+
+
 [Go Back](../README.md)
