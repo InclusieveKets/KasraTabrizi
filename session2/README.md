@@ -84,7 +84,7 @@ If everything is set, then press play.
 ### Design files
 
 
-<a href="inkscape/shield.svg" download>Shield.svg</a>
+<a href="/inkscape" download>Shield.svg</a>
 
 [Go Back](../README.md)
 
