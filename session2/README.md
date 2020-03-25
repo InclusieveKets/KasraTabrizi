@@ -79,5 +79,13 @@ As the lasercutter is used; after a while the laser wattage will decrease. So th
 
 If everything is set, then press play.
 
+
+
+### Design files
+
+[SVG file of the phone stand and shield](../inkscape)
+
+
+
 [Go Back](../README.md)
 
