@@ -83,8 +83,9 @@ If everything is set, then press play.
 
 ### Design files
 
-[SVG file of the phone stand and shield](./inkscape/shield.svg)
-
+<p>
+    <a href="./inkscape/shield.svg" download>
+</p>
 
 
 [Go Back](../README.md)
