@@ -83,7 +83,7 @@ If everything is set, then press play.
 
 ### Design files
 
-[SVG file of the phone stand and shield](../inkscape)
+[SVG file of the phone stand and shield](../inkscape/shield.svg)
 
 
 
