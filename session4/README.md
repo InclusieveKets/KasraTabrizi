@@ -2,8 +2,8 @@
 ## Author: Kasra Tabrizi
 
 - Introduction to Electronics by Bruce
-- Using the Arduino
 - Learning some simple schematics
+- Combining Arduino with some Electronics component
 
 ### Basics
 
