@@ -37,7 +37,6 @@ If the Resistance increases, the voltage increases
 3. Osciloscope
 4. Signal generator (Sine, square, triangle, sawtooth)
 
-
 ### Types of Resistors
 
 1. Normal Static Resistor (has color bands for displaying the resistance value. Use the color codes for finding the value)
