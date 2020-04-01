@@ -96,7 +96,7 @@ A component that converts voltage to another voltage.
 
 1. Voltage Divider = uses two resistors in serie to divide the voltage.
 
-### Assignment
+### Assignment (Busy)
 
 De voeding van je project
 de inputs spanningsdeler
