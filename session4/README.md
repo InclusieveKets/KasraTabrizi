@@ -98,11 +98,22 @@ A component that converts voltage to another voltage.
 
 ### Assignment 
 
-Create a circuit and make some calculations
+- Create a circuit and make some calculations
+
+#### Project: LED Matrix Display
+
+I decided to work further on my led matrix display I made last year.
+I'm using 16x22 LEDS using the 2812B ledstrip, which only uses one datapin to program. 
+For this project and the calculations, I'll be using the Arduino. But later I would like to use a raspberry pi.
 
 <p align="center">
     <img src="images/screenshot_project.png" width="900" alt="led matrix display">
 </p>
+
+
+##### Calculation
+
+According to the datasheet of the WS2812B, it uses 5V as the power supply voltage.
 
 
 
