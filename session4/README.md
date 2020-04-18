@@ -101,7 +101,7 @@ A component that converts voltage to another voltage.
 Create a circuit and make some calculations
 
 <p align="center">
-    <img src="images/screenshot_project.png" width="700" alt="led matrix display">
+    <img src="images/screenshot_project.png" width="900" alt="led matrix display">
 </p>
 
 
