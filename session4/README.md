@@ -103,7 +103,7 @@ A component that converts voltage to another voltage.
 #### Project: LED Matrix Display
 
 I decided to work further on my led matrix display I made last year.
-I'm using 16x22 LEDS using the 2812B ledstrip ([Amazon Link]("https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-Waterproof/dp/B01CDTEJBG/ref=redir_mobile_desktop?ie=UTF8&aaxitk=DwlGuxD-QS3avXZ12UxnJA&hsa_cr_id=3175378110301&ref_=sb_s_sparkle")), which only uses one datapin to program. 
+I'm using 16x22 LEDS using the 2812B ledstrip [Amazon Link](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-Waterproof/dp/B01CDTEJBG/ref=redir_mobile_desktop?ie=UTF8&aaxitk=DwlGuxD-QS3avXZ12UxnJA&hsa_cr_id=3175378110301&ref_=sb_s_sparkle), which only uses one datapin to program. 
 For this project and the calculations, I'll be using the Arduino. But later I would like to use a raspberry pi.
 
 <p align="center">
