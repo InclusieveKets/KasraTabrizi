@@ -120,7 +120,10 @@ According to the datasheet of the WS2812B, it uses 5V as the power supply voltag
 
 One RGB Led will use 60mA at full brightness so the maximum power of on RGB led would be
 
+```
 60mA * 5V = 0.3W or 300mW
+```
+
 
 My matrix led display has a dimension of 16x22 leds so I have
 
