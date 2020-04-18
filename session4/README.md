@@ -103,7 +103,10 @@ A component that converts voltage to another voltage.
 #### Project: LED Matrix Display
 
 I decided to work further on my led matrix display I made last year.
-I'm using 16x22 LEDS using the 2812B ledstrip [Amazon Link](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-Waterproof/dp/B01CDTEJBG/ref=redir_mobile_desktop?ie=UTF8&aaxitk=DwlGuxD-QS3avXZ12UxnJA&hsa_cr_id=3175378110301&ref_=sb_s_sparkle), which only uses one datapin to program. 
+I'm using 16x22 LEDS using the 2812B ledstrip 
+
+[Amazon Link](https://www.amazon.com/BTF-LIGHTING-Flexible-Individually-Addressable-Non-Waterproof/dp/B01CDTEJBG/ref=redir_mobile_desktop?ie=UTF8&aaxitk=DwlGuxD-QS3avXZ12UxnJA&hsa_cr_id=3175378110301&ref_=sb_s_sparkle).
+
 For this project and the calculations, I'll be using the Arduino. But later I would like to use a raspberry pi.
 
 <p align="center">
@@ -115,6 +118,26 @@ For this project and the calculations, I'll be using the Arduino. But later I wo
 
 According to the datasheet of the WS2812B, it uses 5V as the power supply voltage.
 
+One RGB Led will use 60mA at full brightness so the maximum power of on RGB led would be
+
+60mA * 5V = 0.3W or 300mW
+
+My matrix led display has a dimension of 16x22 leds so I have
+
+16 x 22 = 352 LEDs
+
+So my display would dissipate 105.6 W if all LEDs would light up at maximum
+
+352 Leds x 0.3W = 105.6W
+
+But since I would never light up all LEDS at maximum continuously I assume the power would be a bit less.
+
+How much does the Arduino use at maximum? (eventhough this will probably never be the case)
+
+5V x 200mA = 1W
+
+So therefore I will use a 5V/30A power supply with a maximun of 150W of power. That way I'm sure the Arduino and ledstrips will get
+enough power.
 
 
 [Go Back](../README.md)
