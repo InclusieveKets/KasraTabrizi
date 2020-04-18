@@ -96,12 +96,13 @@ A component that converts voltage to another voltage.
 
 1. Voltage Divider = uses two resistors in serie to divide the voltage.
 
-### Assignment (Busy)
+### Assignment 
 
-De voeding van je project
-de inputs spanningsdeler
-de outputs using a mosfet or relais
-simuleer je berekende waarden
+Create a circuit and make some calculations
+
+<p align="center">
+    <img src="images/screenshot_project.png" width="400" alt="led matrix display">
+</p>
 
 
 
