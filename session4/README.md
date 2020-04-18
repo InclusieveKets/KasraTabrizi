@@ -124,20 +124,25 @@ One RGB Led will use 60mA at full brightness so the maximum power of on RGB led 
 60mA * 5V = 0.3W or 300mW
 ```
 
-
 My matrix led display has a dimension of 16x22 leds so I have
 
+```
 16 x 22 = 352 LEDs
+```
 
 So my display would dissipate 105.6 W if all LEDs would light up at maximum
 
+```
 352 Leds x 0.3W = 105.6W
+```
 
 But since I would never light up all LEDS at maximum continuously I assume the power would be a bit less.
 
 How much does the Arduino use at maximum? (eventhough this will probably never be the case)
 
+```
 5V x 200mA = 1W
+```
 
 So therefore I will use a 5V/30A power supply with a maximun of 150W of power. That way I'm sure the Arduino and ledstrips will get
 enough power.
