@@ -83,13 +83,13 @@ Etching is the process where you etch away all the copper on the PCB that you do
 ##### 3D View
 
 <p align="center">
-    <img src="images/3DView.png" width="900" alt="led matrix display">
+    <img src="images/3Dview.png" width="900" alt="led matrix display">
 </p>
 
 ### Design files
 
 <ul>
-    <li><a href="kiCad/session5_exercise" download>session 5 exercise</a></li>
+    <li><a href="kiCad/session5_exercise/session5_exercise.sch" download>session 5 exercise schematic</a></li>
 </ul>
 
 
