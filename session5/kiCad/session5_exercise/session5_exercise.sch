@@ -1,0 +1,74 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R1
+U 1 1 5E85B11B
+P 3600 3000
+F 0 "R1" V 3393 3000 50  0000 C CNN
+F 1 "200" V 3484 3000 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 3530 3000 50  0001 C CNN
+F 3 "~" H 3600 3000 50  0001 C CNN
+	1    3600 3000
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED D1
+U 1 1 5E85C410
+P 3850 3250
+F 0 "D1" V 3889 3133 50  0000 R CNN
+F 1 "LED" V 3798 3133 50  0000 R CNN
+F 2 "LED_THT:LED_D4.0mm" H 3850 3250 50  0001 C CNN
+F 3 "~" H 3850 3250 50  0001 C CNN
+	1    3850 3250
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:Battery BT1
+U 1 1 5E85EDC1
+P 2850 3250
+F 0 "BT1" H 2958 3296 50  0000 L CNN
+F 1 "Battery" H 2958 3205 50  0000 L CNN
+F 2 "Battery:BatteryHolder_Eagle_12BH611-GR" V 2850 3310 50  0001 C CNN
+F 3 "~" V 2850 3310 50  0001 C CNN
+	1    2850 3250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3750 3000 3850 3000
+Wire Wire Line
+	3850 3000 3850 3100
+Wire Wire Line
+	2850 3450 3850 3450
+Wire Wire Line
+	3850 3450 3850 3400
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5E86499E
+P 3100 3000
+F 0 "SW1" H 3100 3285 50  0000 C CNN
+F 1 "SW_Push" H 3100 3194 50  0000 C CNN
+F 2 "Button_Switch_THT:SW_PUSH-12mm" H 3100 3200 50  0001 C CNN
+F 3 "~" H 3100 3200 50  0001 C CNN
+	1    3100 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2850 3050 2850 3000
+Wire Wire Line
+	2850 3000 2900 3000
+Wire Wire Line
+	3300 3000 3450 3000
+$EndSCHEMATC
