@@ -90,6 +90,7 @@ Etching is the process where you etch away all the copper on the PCB that you do
 
 <ul>
     <li><a href="kiCad/session5_exercise/session5_exercise.sch" download>session 5 exercise schematic</a></li>
+    <li><a href="kiCad/session5_exercise/session5_exercise.kicad_pcb" download>session 5 exercise pcb</a></li>
 </ul>
 
 
