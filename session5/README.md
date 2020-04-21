@@ -2,6 +2,11 @@
 ## Author: Kasra Tabrizi
 
 - Introduction to KiCad
+- Learning to Draw schematics
+- Learning to create PCB layouts for those schematics
 
 
 ### History
+
+
+### Assignment
