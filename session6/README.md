@@ -37,13 +37,13 @@ I will use the following component:
 I first of all drew the circuit using TinkerCad.
 
 <p align="center">
-    <img src="images/tinker_image.png" width="900" alt="led matrix display">
+    <img src="images/tinker_image.png" width="900" alt="tinkercad circuit">
 </p>
 
 Circuit made in real:
 
 <p align="center">
-    <img src="images/real_circuit.jpg" width="900" alt="led matrix display">
+    <img src="images/real_circuit.jpg" width="800" alt="tinkercad circuit made in real">
 </p>
 
 [Go Back](../README.md)
