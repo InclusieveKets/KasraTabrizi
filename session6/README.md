@@ -32,6 +32,15 @@ I will use the following component:
 6. Ultrasone Sensor.
 7. Breadboard Wires.
 
+To display certain distances with LEDS, I used the SN74HC595 IC. With this IC you can break down a stream of one byte (transmitted serially from the Arduino) into 8 individual bits and output them through this IC. This is handy when you don't have enough pins on you board to control 8 LED's for example. The communicated with this IC, You only use 3 pins from the Arduino: 
+
+1. A pin for the clock
+2. A pin for the serial data
+3. A pin for the latch
+
+With every clock pulse, a bit of that byte is shifted to the output. Luckily, there is a built-in function in Arduino called 
+ShiftOut() that can do that for you without you having the worry about the timing of the pulse, etc. (see source code)
+
 #### Schematic
 
 I first of all drew the circuit using TinkerCad.
@@ -46,7 +55,7 @@ I first of all drew the circuit using TinkerCad.
     <img src="images/real_circuit.jpg" width="600" alt="tinkercad circuit made in real">
 </p>
 
-#### Code
+#### Source Code
 
 ```
 int duurtijd;
@@ -122,6 +131,11 @@ int distanceToByte(int afstand){
   }
 }
 ```
+### files
 
+<ul>
+    <li><a href="arduino_code/testScript.ino" download>Arduino Source Code</a></li>
+    <li><a href="images/tinker_image.png" download>tinkercad circuit</a></li>
+</ul>
 
 [Go Back](../README.md)
