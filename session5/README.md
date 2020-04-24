@@ -5,7 +5,6 @@
 - Learning to Draw schematics
 - Learning to create PCB layouts for those schematics
 
-
 ### History
 
 In the early days of electronics, components were just soldered together.
