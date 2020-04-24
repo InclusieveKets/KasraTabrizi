@@ -43,7 +43,7 @@ I first of all drew the circuit using TinkerCad.
 Circuit made in real:
 
 <p align="center">
-    <img src="images/real_circuit.jpg" width="800" alt="tinkercad circuit made in real">
+    <img src="images/real_circuit.jpg" width="600" alt="tinkercad circuit made in real">
 </p>
 
 [Go Back](../README.md)
