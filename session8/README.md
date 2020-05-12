@@ -67,7 +67,8 @@ Creativity Techniques
 ### End Project - Matrix Led Display
 
 1. What does it do? 
-   display pixel Art, pixel animation 
+   display pixel art, pixel animation, time, weather forecast by using Ledstrips.
+   Used as a home decoration.
 
 2. Who's done what beforehand?
 
