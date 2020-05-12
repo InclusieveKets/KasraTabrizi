@@ -2,7 +2,6 @@
 ## Author: Kasra Tabrizi
 
 - Introduction to Material and Design
-- 
 
 before you can design stuff, we have to go through a design process
 
