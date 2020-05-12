@@ -65,6 +65,34 @@ Good Design is invisible, Bad Design is everywhere
 
 Creativity Techniques
 
+### End Project - Matrix Led Display
+
+1. What does it do? 
+   display pixel Art, pixel animation 
+
+2. Who's done what beforehand?
+
+3. What did you design?
+
+4. What materials and components were used?
+
+5. Where did they come from?
+
+6. How much did they cost?
+
+7. What parts and systems were made?
+
+8. What processes were used?
+
+9. What questions were answered?
+
+10. What worked? What didn't?
+
+11. How was it evaluated?
+
+12. hat are the implications?
+
+
 
 
 [Go Back](../README.md)
